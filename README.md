@@ -64,7 +64,7 @@ Some of the questions that were also inferred from this dataset are:
 1. Estimate statistical performance of the two teams playing in the Super Bowl LVI.
 1. Develop a regression model that accurately determines the scores from previous games played in the season.
 1. Input the estimated feature values in the model to predict the score for each team.
-> The team that’s estimated to score more points is the projected winner.
+> The team that is estimated to score more points is the projected winner.
 
 Project Organization
 ------------
