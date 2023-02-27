@@ -1,9 +1,6 @@
 # NFL_Super_Bowl_LVI_winner_prediction
 > *Springboard capstone 3: Model to predict the winner of Super Bowl LVI*
 
-
-![superbowl_rams_bengals](https://user-images.githubusercontent.com/53842285/221587479-f05eb1c8-e123-41a0-aede-f587293f0b38.jpeg)
-
 **Problem Statement:**<br>
 Are there more important factors and qualities of a NFL Super Bowl team and can all of these factors be used to predict a winner accurately, from the 2021 season?
 
