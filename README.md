@@ -1,4 +1,4 @@
-# NFL_Super_Bowl_LVI_winner_prediction
+# Super-Bowl-Winner-Predictor
 > *Springboard capstone 3: Model to predict the winner of Super Bowl LVI*
 
 ![superbowl_rams_bengals](https://user-images.githubusercontent.com/53842285/221587479-f05eb1c8-e123-41a0-aede-f587293f0b38.jpeg)
